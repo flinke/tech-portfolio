@@ -11,4 +11,4 @@ Code Bread is a cooperative top-down management game set on a spaceship in which
 [Link to the project website](https://wiki.tum.de/display/gameslab2020/Team+Callstack+Overflow+2)
 [Trailer](https://youtu.be/ZcPtcbBLNzg)
 
-[Screenshot of Code Bread](./assets/code bread.png)
+![Screenshot of Code Bread](./assets/code_bread.png)
