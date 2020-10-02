@@ -3,12 +3,11 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+Code Bread
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+Code Bread is a cooperative top-down management game set on a spaceship in which two players try to bake and deliver as many pizzas as possible while dealing with various environmental factors.
 
-![Add alternate text for image](./assets/rosemary.png)
+[links](https://wiki.tum.de/display/gameslab2020/Team+Callstack+Overflow+2)
+
+![Screenshot of Code Bread](./assets/code bread.png)
